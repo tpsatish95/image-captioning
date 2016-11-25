@@ -1,0 +1,116 @@
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, random_state=None, solver='lsqr',
+        tol=0.01)
+train time: 8.242s
+test time:  0.039s
+accuracy:   0.581
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=8, penalty=None, random_state=0, shuffle=True,
+      verbose=0, warm_start=False)
+train time: 32.327s
+test time:  0.062s
+accuracy:   0.756
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, class_weight=None, fit_intercept=True,
+              loss='hinge', n_iter=50, n_jobs=8, random_state=None,
+              shuffle=True, verbose=0, warm_start=False)
+train time: 46.940s
+test time:  0.051s
+accuracy:   0.849
+
+================================================================================
+kNN
+________________________________________________________________________________
+Training: 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=8, n_neighbors=12, p=2,
+           weights='uniform')
+train time: 0.444s
+test time:  64.272s
+accuracy:   0.974
+
+================================================================================
+Random forest
+________________________________________________________________________________
+Training: 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=8,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+train time: 0.664s
+test time:  90.272s
+accuracy:   0.984
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, average=False, class_weight=None, epsilon=0.1,
+       eta0=0.0, fit_intercept=True, l1_ratio=0.15,
+       learning_rate='optimal', loss='hinge', n_iter=50, n_jobs=8,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       verbose=0, warm_start=False)
+train time: 39.578s
+test time:  0.051s
+accuracy:   0.755
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, average=False, class_weight=None, epsilon=0.1,
+       eta0=0.0, fit_intercept=True, l1_ratio=0.15,
+       learning_rate='optimal', loss='hinge', n_iter=50, n_jobs=8,
+       penalty='l1', power_t=0.5, random_state=None, shuffle=True,
+       verbose=0, warm_start=False)
+train time: 89.958s
+test time:  0.050s
+accuracy:   0.027
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, average=False, class_weight=None, epsilon=0.1,
+       eta0=0.0, fit_intercept=True, l1_ratio=0.15,
+       learning_rate='optimal', loss='hinge', n_iter=50, n_jobs=1,
+       penalty='elasticnet', power_t=0.5, random_state=None, shuffle=True,
+       verbose=0, warm_start=False)
+train time: 455.964s
+test time:  0.047s
+accuracy:   0.550
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.091s
+test time:  0.066s
+accuracy:   0.625
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.248s
+test time:  0.087s
+accuracy:   0.096
+
+[Finished in 734.7s]

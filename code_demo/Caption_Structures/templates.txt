@@ -1,0 +1,144 @@
+$pokemonA attacks $pokemonB using $attackC
+$pokemonA attacked $pokemonB using $attackC
+$pokemonA is attacking $pokemonB using $attackC
+$pokemonA uses $attackC on $pokemonB
+$pokemonA used $attackC on $pokemonB
+$pokemonA is using $attackC on $pokemonB
+$pokemonB is attacked by $pokemonA using $attackC
+$pokemonB was attacked by $pokemonA using $attackC
+$pokemonB is being attacked by $pokemonA using $attackC
+$attackC is used by $pokemonA on $pokemonB
+$attackC was used by $pokemonA on $pokemonB
+$attackC is being used by $pokemonA on $pokemonB
+$pokemonA has attacked $pokemonB using $attackC
+$pokemonA has used $attackC on $pokemonB
+$pokemonB has been attacked by $pokemonA using $attackC
+$attackC has been used by $pokemonA on $pokemonB 
+$pokemonA attacks $pokemonB utilizing $attackC
+$pokemonA attacked $pokemonB utilizing $attackC
+$pokemonA is attacking $pokemonB utilizing $attackC
+$pokemonA utilizes $attackC to attack $pokemonB
+$pokemonA utilized $attackC to attack $pokemonB
+$pokemonA is utilizing $attackC to attack $pokemonB
+$pokemonB is attacked by $pokemonA utilizing $attackC
+$pokemonB was attacked by $pokemonA utilizing $attackC
+$pokemonB is being attacked by $pokemonA utilizing $attackC
+$attackC is utilized by $pokemonA to attack $pokemonB
+$attackC was utilized by $pokemonA to attack $pokemonB
+$attackC is being utilized by $pokemonA to attack $pokemonB
+$pokemonA has attacked $pokemonB utilizing $attackC
+$pokemonA has utilized $attackC to attack $pokemonB
+$pokemonB has been attacked by $pokemonA utilizing $attackC
+$attackC has been utilized by $pokemonA on $pokemonB
+$pokemonA attacks $pokemonB availing $attackC
+$pokemonA attacked $pokemonB availing $attackC
+$pokemonA is attacking $pokemonB availing $attackC
+$pokemonA avails $attackC on $pokemonB
+$pokemonA availed $attackC on $pokemonB
+$pokemonA is availing $attackC on $pokemonB
+$pokemonB is attacked by $pokemonA availing $attackC
+$pokemonB was attacked by $pokemonA availing $attackC
+$pokemonB is being attacked by $pokemonA availing $attackC
+$attackC is availed by $pokemonA on $pokemonB
+$attackC was availed by $pokemonA on $pokemonB
+$attackC is being availed by $pokemonA on $pokemonB
+$pokemonA has attacked $pokemonB availing $attackC
+$pokemonA has availed $attackC on $pokemonB
+$pokemonB has been attacked by $pokemonA availing $attackC
+$attackC has been availed by $pokemonA on $pokemonB 
+$pokemonA attacks $pokemonB by deploying $attackC
+$pokemonA attacked $pokemonB by deploying $attackC
+$pokemonA is attacking $pokemonB by deploying $attackC
+$pokemonA deploys $attackC on $pokemonB
+$pokemonA deployed $attackC on $pokemonB
+$pokemonA is deploying $attackC on $pokemonB
+$pokemonB is attacked by $pokemonA by deploying $attackC
+$pokemonB was attacked by $pokemonA by deploying $attackC
+$pokemonB is being attacked by $pokemonA by deploying $attackC
+$attackC is deployed by $pokemonA on $pokemonB
+$attackC was deployed by $pokemonA on $pokemonB
+$attackC is being deployed by $pokemonA on $pokemonB
+$pokemonA has attacked $pokemonB by deploying $attackC
+$pokemonA has deployed $attackC on $pokemonB
+$pokemonB has been attacked by $pokemonA by deploying $attackC
+$attackC has been deployed by $pokemonA on $pokemonB
+$pokemonA attacks $pokemonB by employing $attackC
+$pokemonA attacked $pokemonB by employing $attackC
+$pokemonA is attacking $pokemonB by employing $attackC
+$pokemonA employs $attackC on $pokemonB
+$pokemonA employed $attackC on $pokemonB
+$pokemonA is employing $attackC on $pokemonB
+$pokemonB is attacked by $pokemonA by employing $attackC
+$pokemonB was attacked by $pokemonA by employing $attackC
+$pokemonB is being attacked by $pokemonA by employing $attackC
+$attackC is employed by $pokemonA to attack $pokemonB
+$attackC was employed by $pokemonA to attack $pokemonB
+$attackC is being employed by $pokemonA to attack $pokemonB
+$pokemonA has attacked $pokemonB by employing $attackC
+$pokemonA has employed $attackC on $pokemonB
+$pokemonB has been attacked by $pokemonA by employing $attackC
+$attackC has been employed by $pokemonA to attack $pokemonB
+$pokemonA exhibits $attackC on $pokemonB
+$pokemonA exhibited $attackC on $pokemonB
+$pokemonA is exhibiting $attackC on $pokemonB
+$pokemonA has exhibited $attackC on $pokemonB
+$attackC is exhibited by $pokemonA to attack $pokemonB
+$attackC was exhibited by $pokemonA to attack $pokemonB
+$attackC is being exhibited by $pokemonA to attack $pokemonB
+$attackC has been exhibited by $pokemonA to attack $pokemonB
+$pokemonA uses $attackB
+$pokemonA used $attackB
+$pokemonA is using $attackB
+$pokemonA has used $attackB
+$attackB is used by $pokemonA
+$attackB is being used by $pokemonA
+$attackB has been used by $pokemonA
+$attackB was used by $pokemonA
+$pokemonA avails $attackB
+$pokemonA availed $attackB
+$pokemonA is availing $attackB
+$pokemonA has availed $attackB
+$attackB is availed by $pokemonA
+$attackB is being availed by $pokemonA
+$attackB has been availed by $pokemonA
+$attackB was availed by $pokemonA
+$pokemonA utilizes $attackB
+$pokemonA utilized $attackB
+$pokemonA is utilizing $attackB
+$pokemonA has utilized $attackB
+$attackB is utilized by $pokemonA
+$attackB is being utilized by $pokemonA
+$attackB has been utilized by $pokemonA
+$attackB was utilized by $pokemonA
+$pokemonA demonstrates $attackB
+$pokemonA demonstrated $attackB
+$pokemonA is demonstrating $attackB
+$pokemonA has demonstrated $attackB
+$attackB is demonstrated by $pokemonA
+$attackB is being demonstrated by $pokemonA
+$attackB has been demonstrated by $pokemonA
+$attackB was demonstrated by $pokemonA
+$pokemonA displays $attackB
+$pokemonA displayed $attackB
+$pokemonA is displaying $attackB
+$pokemonA has displayed $attackB
+$attackB is displayed by $pokemonA
+$attackB is being displayed by $pokemonA
+$attackB has been displayed by $pokemonA
+$attackB was displayed by $pokemonA
+$pokemonA exhibits $attackB
+$pokemonA exhibited $attackB
+$pokemonA is exhibiting $attackB
+$pokemonA has exhibited $attackB
+$attackB is exhibited by $pokemonA
+$attackB is being exhibited by $pokemonA
+$attackB has been exhibited by $pokemonA
+$attackB was exhibited by $pokemonA
+$pokemonA deploys $attackB
+$pokemonA deployed $attackB
+$pokemonA is deploying $attackB
+$pokemonA has deployed $attackB
+$attackB is deployed by $pokemonA
+$attackB is being deployed by $pokemonA
+$attackB has been deployed by $pokemonA
+$attackB was deployed by $pokemonA

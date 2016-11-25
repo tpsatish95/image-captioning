@@ -1,0 +1,33 @@
+References:
+
+1. Aherne, Frank J. and Thacker, Neil A. and Rockett, Peter I. (1998) ‘The Bhattacharyya metric as an absolute similarity measure for frequency coded data’, Kybernetika, Vol. 34,  No. 4, [363]--368
+
+2. Dalal, Navneet and Triggs, Bill. (2005)  ‘HOG Descriptor: Histograms of Oriented Gradients for Human Detection’, CVPR, Volume 01, Pages 886-893
+
+3. Deng, J. and Dong, W. and Socher, R. and Li, L.-J. and Li, K.  and FeiFei, L. (2009) ‘ImageNet: A large-scale hierarchical image database ’,  CVPR
+
+4. Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor (2014), ‘Caffe: Convolutional Architecture for Fast Feature Embedding‘, 22nd ACM international conference on Multimedia, arXiv:1408.5093, 675 - 678
+
+5. Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, 	Andrew (2015) ‘Going Deeper With Convolutions’, CVPR, arXiv:1409.4842, 1-9
+
+6. Uijlings, Jasper R. R. and van de Sande, Koen E. A. and Gevers, Theo and W. M. Smeulders, Arnold W. M (2013) ‘Selective Search for Object Recognition’, IJCV, Volume 104 (2), page 154-171
+
+7. Zhou, B. and  Lapedriza, A. and Xiao,  J. and  Torralba,  A. and Oliva, A. (2014)  ‘Learning Deep Features for Scene Recognition using Places Database’. Advances in Neural Information Processing Systems 27 (NIPS) spotlight
+
+Links:
+
+8.  Pokemon - The Pokemon Company International, http://www.pokemon.com/us/
+
+9.  Bulbapedia - a community driven Pokémon encyclopedia, bulbapedia.bulbagarden.net 
+
+10. Keras - Francois Collet, https://github.com/fchollet/keras
+
+11. Pokemon Wiki , pokemon.wikia.com 
+
+12. CMU Sphinx (Open Source Speech Recognition Toolkit), http://cmusphinx.sourceforge.net/
+
+13. 3D Colour Histograms, http://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/
+
+14. Basic CNN Architecture diagram, http://parse.ele.tue.nl/education/cluster2
+
+15. Hierarchy of Deep Learnt Features, https://www.datarobot.com/blog/a-primer-on-deep-learning/
